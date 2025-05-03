@@ -85,15 +85,6 @@ A simple Flask web application that allows users to register, log in, and manage
 
 ---
 
-## 📌 Future Improvements
-
-- Add note editing & deletion
-- Use hashed passwords for better security
-- Add profile management
-- Deploy to a cloud provider (Heroku, Render, etc.)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use and modify as needed.
