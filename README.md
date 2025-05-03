@@ -44,7 +44,7 @@ A simple Flask web application that allows users to register, log in, and manage
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flask-notes-app.git
+   git clone https://github.com/Srikeerthibandi/Flask-Notes-Web-App.git
    cd flask-notes-app
    ```
 
